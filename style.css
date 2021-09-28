@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Gemunu Libre', sans-serif;
 }
 ::selection{
   color: #ffff;
@@ -14,7 +14,7 @@ body{
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+  background: linear-gradient(to bottom, #307fd9 0%, #2f4a69 100%);
 }
 .wrapper{
   background: #fff;
